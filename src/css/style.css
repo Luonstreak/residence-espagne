@@ -1907,6 +1907,10 @@ hr {
   display: none;
 }
 
+.swiper-slide {
+  background-color: rgb(248, 249, 250);
+}
+
 @media (min-width: 480px){
   .viber, .address-small {
     display: none;
